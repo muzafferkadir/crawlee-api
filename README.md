@@ -21,8 +21,8 @@ A powerful RESTful API for web scraping using Crawlee and Playwright. This API a
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/muzafferkadir/crawlee-rest-api.git
-cd crawlee-rest-api
+git clone https://github.com/muzafferkadir/crawlee-api.git
+cd crawlee-api
 ```
 
 2. Install dependencies:
