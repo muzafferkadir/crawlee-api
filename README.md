@@ -14,7 +14,7 @@ A powerful RESTful API for web scraping using Crawlee and Playwright. This API a
 
 ## Prerequisites
 
-- Node.js (v16 or higher)
+- Node.js (v20 or higher)
 - npm or yarn
 
 ## Installation
